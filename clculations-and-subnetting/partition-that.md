@@ -3,8 +3,8 @@
 You have received a single CIDR block.  
 You have to partition that in the following way:  
 
-- You get an initial block (we'll call it B):  
-87.87.0.0/18
+- The initial block (we'll call it B):  
+**87.87.0.0/18**
   - **Answer**: how many addresses are in this block?
   - **Answer**: what is the broadcast address of the block?
 - Split the block into 4 CIDR blocks (let's call them B1, B2, B3, B4)
